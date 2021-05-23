@@ -1,0 +1,6 @@
+- Create a Group. Add Users to it.
+- Attach Policies.
+- Use managed policies to logically manage permissions
+- Manage group membership to assign permissions
+- Start with min set of permissions
+- Regularly check AccessAdvisor to restrict access

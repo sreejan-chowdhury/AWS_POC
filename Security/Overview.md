@@ -17,3 +17,10 @@ AWS is responsible for the Security of the Cloud, and Customer is responsible fo
 •	Infra Protection : Can protect web apps by filtering traffic. e.g  AWS Shield and AWS Web Application Firewall (WAF)
 •	Data Protection : e.g AWS Key Management Service (KMS) and AWS Cloud HSM.
 
+
+#AWS Free Tier Types
+ - One Year : EC2
+ - Lifetime Free : SES , Lambda
+ - Trial : Redshift (Data Warehouse) , Quick Sight (BI). This is free for 2 months from date of account creation.
+
+> Note: Check the docx too.
