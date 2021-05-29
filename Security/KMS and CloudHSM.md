@@ -28,3 +28,5 @@ Used to support DB encryption, Digital Rights Management, Public Key Infrastuctu
  - Each HSM instance appears as a network resoirce in your VPC.
  - Adding and Removing HSMs from cluster is done through AWS CLoudHSM API or AWS CLI.
  - After creating and initializing a CLoudHSM cluster, configure a client on EC2 instance that allows user's app to use the cluster over secure, authenticated network connection.
+
+![image](https://user-images.githubusercontent.com/55656762/120082542-3daf3800-c0e1-11eb-8248-fd5f111fda4b.png)
