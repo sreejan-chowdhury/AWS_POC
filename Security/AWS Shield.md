@@ -1,4 +1,4 @@
-Manged DDoS protection service. We can choose the resources we want to protect.
+Managed DDoS protection service. We can choose the resources we want to protect.
 Automatic network flow monitoring, inline mitigation, provides advanced DDoS attack visibility and insights.
 
 Levels:
