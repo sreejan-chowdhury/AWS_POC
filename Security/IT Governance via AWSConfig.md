@@ -8,7 +8,7 @@
 
 
 # AWS Config 
-We can use it to assecc, audit and evaluate the configuration of our AWS resources.
+We can use it to access, audit and evaluate the configuration of our AWS resources.
 
 ## Terminology
  - AWS Resources : entities we can create, use and mange on AWS Console, CLi, SDKs or other AAWS Tools.

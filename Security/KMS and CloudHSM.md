@@ -3,7 +3,7 @@
  - Consists of access key ID and a secret key.
 
 ## Key Mangement System (KMS)
-It is a managed encryption service that enables user to eadily encrypt user data.
+It is a managed encryption service that enables user to easily encrypt user data.
 Provides highly available key storage, management, and auditing solution to encrypt data across AWS serices.
 
  - Creates keys with unique alias and description
