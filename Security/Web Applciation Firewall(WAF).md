@@ -1,6 +1,6 @@
 Provides protection against web attacks
 Saves time with managed rules
-Improves sweb traffic visibility
+Improves web traffic visibility
 Offers Real-time metrics
 
 To control web requests we can use WAF ACLs, rules and rules groups.
